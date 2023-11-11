@@ -174,4 +174,4 @@ plt.xlabel('Variável')
 plt.ylabel('Frequência')
 plt.title('Histograma da Variável')
 plt.show()
-# output: impossível de mostrar
+# output: impossível mostrar
